@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "app_name": "Block Realm: Build & Craft",
+  "package_name": "com.blockrealm.buildcraft.huawei",
+  "store": "huawei_appgallery",
+  "ads_enabled": false,
+  "yandex_interstitial_id": "",
+  "yandex_rewarded_id": "",
+  "yandex_appopen_id": "",
+  "maintenance_mode": false,
+  "min_supported_version_code": 1,
+  "latest_version_code": 1,
+  "update_mode": "none",
+  "update_url": "",
+  "support_email": ""
+}
